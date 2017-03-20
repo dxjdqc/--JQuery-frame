@@ -42,6 +42,7 @@
         },
         splice:arr.splice
     };
+    
 
     // 动态添加构造函数
     var　init = itcast.fn.init = function ( selector ) {
