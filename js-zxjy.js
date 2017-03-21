@@ -510,5 +510,6 @@
         module.exports = itcast;
     } else {
         global.$ = itcast;
+        
     }
 } (window));
